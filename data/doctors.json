@@ -1,0 +1,112 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. Sarah Johnson",
+      "specialization": "General Physician",
+      "experience": 15,
+      "rating": 4.8,
+      "location": "Mumbai Central",
+      "consultationFee": 800,
+      "availability": "Mon-Sat, 9:00 AM - 5:00 PM",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&h=400&fit=crop",
+      "qualifications": [
+        "MBBS",
+        "MD",
+        "Fellowship in Internal Medicine"
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ],
+      "about": "Dr. Sarah Johnson is a highly experienced General Physician with expertise in preventive healthcare and chronic disease management. She has been practicing for over 15 years and is known for her patient-centric approach."
+    },
+    {
+      "name": "Dr. Rajesh Kumar",
+      "specialization": "Internal Medicine",
+      "experience": 12,
+      "rating": 4.6,
+      "location": "Andheri West",
+      "consultationFee": 1000,
+      "availability": "Mon-Fri, 10:00 AM - 7:00 PM",
+      "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&h=400&fit=crop",
+      "qualifications": [
+        "MBBS",
+        "MD",
+        "DM in Internal Medicine"
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Gujarati"
+      ],
+      "about": "Dr. Rajesh Kumar specializes in internal medicine with a focus on complex medical conditions. He has extensive experience in managing chronic diseases and providing comprehensive healthcare solutions."
+    },
+    {
+      "name": "Dr. Priya Sharma",
+      "specialization": "General Physician",
+      "experience": 8,
+      "rating": 4.9,
+      "location": "Bandra East",
+      "consultationFee": 750,
+      "availability": "Mon-Sat, 8:00 AM - 4:00 PM",
+      "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&h=400&fit=crop",
+      "qualifications": [
+        "MBBS",
+        "MD",
+        "Diploma in Family Medicine"
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Gujarati"
+      ],
+      "about": "Dr. Priya Sharma is a dedicated General Physician known for her compassionate care and thorough approach to patient treatment. She specializes in preventive healthcare and family medicine."
+    },
+    {
+      "name": "Dr. Amit Patel",
+      "specialization": "Internal Medicine",
+      "experience": 20,
+      "rating": 4.7,
+      "location": "Powai",
+      "consultationFee": 1200,
+      "availability": "Mon-Fri, 9:00 AM - 6:00 PM",
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&h=400&fit=crop",
+      "qualifications": [
+        "MBBS",
+        "MD",
+        "DM",
+        "Fellowship in Critical Care"
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Gujarati",
+        "Marathi"
+      ],
+      "about": "Dr. Amit Patel is a senior Internal Medicine specialist with extensive experience in managing complex medical conditions. He has special expertise in critical care and emergency medicine."
+    },
+    {
+      "name": "Dr. Meera Desai",
+      "specialization": "General Physician",
+      "experience": 10,
+      "rating": 4.5,
+      "location": "Juhu",
+      "consultationFee": 900,
+      "availability": "Mon-Sat, 10:00 AM - 6:00 PM",
+      "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&h=400&fit=crop",
+      "qualifications": [
+        "MBBS",
+        "MD",
+        "Diploma in Clinical Research"
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ],
+      "about": "Dr. Meera Desai is a General Physician with a special interest in preventive healthcare and lifestyle medicine. She focuses on providing personalized care to her patients."
+    }
+  ]
+}
